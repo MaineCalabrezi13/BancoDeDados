@@ -8,7 +8,7 @@
 <h4>Aula 7: Prova 1</h4>
 <h4>Aula 8, 9 e 10: <a href="https://github.com/MaineCalabrezi13/BancoDeDados/tree/main/Aula%2003.10">SQL (Comandos)</h4>
 <h4>Aula 11, 12 e 13: <a href="">SQL (Select)</h4>
-<h4>Aula 14: <a href="">Prova 2</h4>
+<h4>Aula 14: Prova 2</h4>
 <h4>Aula 15, 16, 17, 18 e 19: <a href="">Confecção do Projeto Final</h4>
 
 
